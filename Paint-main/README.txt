@@ -1,0 +1,1 @@
+This project is one of my person projects where I experiment with pygame
